@@ -1,0 +1,22 @@
+# TESTNET BITMEX
+ - Chatbox
+URL = https://testnet.bitmex.com/api/v1/chat?count=100&reverse=true
+ - LastPrice
+
+
+# BITMEX
+ - Chatbox
+URL = https://www.bitmex.com/api/v1/chat?count=100&reverse=true
+ - LastPrice
+LP = https://www.bitmex.com/app/trade/ADAH19
+
+# BITREX
+ - Chatbox
+
+ - LastPrice
+
+
+# BINANCE
+ - Chatbox
+
+ - LastPrice
